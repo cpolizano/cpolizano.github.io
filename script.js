@@ -1,8 +1,8 @@
 const puzzleContainer = document.querySelector('.puzzle-container');
 const shuffleBtn = document.getElementById('shuffle');
 
-const gridSize = 3;
-const tileSize = 200;
+const gridSize = 10;
+const tileSize = 100;
 let tiles = [];
 
 // Create puzzle tiles
